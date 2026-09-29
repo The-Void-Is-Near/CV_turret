@@ -2,5 +2,5 @@
 By Nehal & Jason
 
 Dependencies
-opencv-python
-simple_pid
+C++ esp32?
+Python CV.
